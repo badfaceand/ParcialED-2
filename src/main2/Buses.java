@@ -40,6 +40,6 @@ public class Buses {
         this.empresa = empresa;
     }
 public void mostrarBus() {
-        System.out.println("La placa es: " + placa + " su total de pasajeros es: " + totalPasajeros + " pertenece a la empresa: " + empresa);
+        System.out.println("placa: " + placa + " |   total pasajeros: " + totalPasajeros + " |   empresa: " + empresa);
     }
 }
